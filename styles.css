@@ -1,0 +1,27 @@
+#container{
+    width:350px;
+    margin:0px auto;
+    text-align: center;
+}
+
+video {
+    width: 100%;
+    border:5px solid blue;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+canvas {
+    width: 100%;
+    border:5px solid green;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+button {
+    width:100%;
+    height:50px;
+    color: white;
+    margin: 5px 5px;
+    border: 5px solid black;
+    background-color: #375c99;
+}
